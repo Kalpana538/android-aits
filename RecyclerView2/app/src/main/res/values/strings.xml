@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+    <string-array name="titles">
+        <item>Anu</item>
+        <item>bhavani</item>
+        <item>charishma</item>
+        <item>eswar</item>
+        <item>indu</item>
+        <item>kalpana</item>
+        <item>anjala</item>
+        <item>lav</item>
+    </string-array>
+    <string-array name="subtitle">
+        <item>kurnool</item>
+        <item>nandhyal</item>
+        <item>kalikiri</item>
+        <item>Tpt</item>
+        <item>chittoor</item>
+        <item>hyd</item>
+        <item>kodur</item>
+        <item>kadapa</item>
+    </string-array>
+</resources>
